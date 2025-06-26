@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "fileNodes": "#2563eb",
+    "rootTags": "#16a34a",
+    "childLevel1": "#fb923c",
+    "childLevel2": "#ea580c",
+    "childLevel3": "#dc2626"
+  },
+  "customNodeColors": [
+    {
+      "nodeName": "2022版",
+      "color": "#ff0000",
+      "enabled": true
+    }
+  ],
+  "enableCustomColors": true,
+  "enableCustomNodeColors": true
+}
